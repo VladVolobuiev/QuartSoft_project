@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuartSoft_project/static/css/main.2874f631.chunk.css",
+    "main.js": "/QuartSoft_project/static/js/main.49bc4c00.chunk.js",
+    "main.js.map": "/QuartSoft_project/static/js/main.49bc4c00.chunk.js.map",
+    "runtime-main.js": "/QuartSoft_project/static/js/runtime-main.18917705.js",
+    "runtime-main.js.map": "/QuartSoft_project/static/js/runtime-main.18917705.js.map",
+    "static/js/2.6534e09d.chunk.js": "/QuartSoft_project/static/js/2.6534e09d.chunk.js",
+    "static/js/2.6534e09d.chunk.js.map": "/QuartSoft_project/static/js/2.6534e09d.chunk.js.map",
+    "static/js/3.0aa4e2ba.chunk.js": "/QuartSoft_project/static/js/3.0aa4e2ba.chunk.js",
+    "static/js/3.0aa4e2ba.chunk.js.map": "/QuartSoft_project/static/js/3.0aa4e2ba.chunk.js.map",
+    "index.html": "/QuartSoft_project/index.html",
+    "static/css/main.2874f631.chunk.css.map": "/QuartSoft_project/static/css/main.2874f631.chunk.css.map",
+    "static/js/2.6534e09d.chunk.js.LICENSE.txt": "/QuartSoft_project/static/js/2.6534e09d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18917705.js",
+    "static/js/2.6534e09d.chunk.js",
+    "static/css/main.2874f631.chunk.css",
+    "static/js/main.49bc4c00.chunk.js"
+  ]
+}
